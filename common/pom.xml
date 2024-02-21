@@ -8,7 +8,7 @@
   <packaging>pom</packaging>
 
   <properties>
-    <python.version>3.6</python.version>
+    <python.version>3.11</python.version>
   </properties>
 
   <build>
