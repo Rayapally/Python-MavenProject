@@ -25,7 +25,7 @@ http://maven.apache.org/POM/4.0.0 ">
                 <version>1.6.0</version>
                 <configuration>
                     <executable>python</executable>
-                    <workingDirectory>${project.basedir}/src/main/python</workingDirectory>
+                    <workingDirectory>${project.basedir}/ShoppingCart</workingDirectory>
                     <arguments>
                         <argument>-m</argument>
                         <argument>pytest</argument>
