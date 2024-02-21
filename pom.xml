@@ -14,7 +14,7 @@ http://maven.apache.org/POM/4.0.0 ">
     </modules>
 
     <properties>
-        <python.version>3.6</python.version>
+        <python.version>3.11</python.version>
     </properties>
 
     <build>
