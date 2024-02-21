@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d8b9ffc-6e14-4872-bd54-d4aaea1f5e74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Shopping_CartProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shopping_Cart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_Shopping_Cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test_Shopping_Cart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shopping_Cart.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/python/Shopping_Cart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_Shopping_Cart.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +42,7 @@
     "Python.Shopping_Cart.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "ShoppingCart",
     "last_opened_file_path": "C:/Users/Asus/PycharmProjects/Shopping_CartProject",
     "settings.editor.selected.configurable": "preferences.externalResources"
   },
@@ -58,6 +52,13 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\PycharmProjects\Shopping_CartProject\src\main\python" />
+      <recent name="C:\Users\Asus\PycharmProjects\Shopping_CartProject\common" />
+      <recent name="C:\Users\Asus\PycharmProjects\Shopping_CartProject\common\src\main\python" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="pytest in Shopping_CartProject" type="tests" factoryName="py.test" nameIsGenerated="true">
       <module name="Shopping_CartProject" />

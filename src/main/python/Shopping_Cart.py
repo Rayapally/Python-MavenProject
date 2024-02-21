@@ -1,3 +1,5 @@
+import sys
+print(sys.path)
 class ShoppingCart:
 
     def __init__(self):
