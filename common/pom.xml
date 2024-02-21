@@ -2,14 +2,14 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <artifactId>common</artifactId>
+  <groupId>xxx.yyy</groupId>
+  <artifactId>parent-pom</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <parent>
-    <groupId>Duxcon</groupId>
-    <artifactId>parent-pom</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-  </parent>
+  <properties>
+    <python.version>3.6</python.version>
+  </properties>
 
   <build>
     <plugins>
@@ -19,7 +19,7 @@
         <version>1.6.0</version>
         <configuration>
           <executable>python</executable>
-          <workingDirectory>${project.basedir}/src/main/python</workingDirectory>
+          <workingDirectory>${project.basedir}/Shopping_CartProject/src/main/python</workingDirectory>
           <arguments>
             <argument>-m</argument>
             <argument>pytest</argument>
