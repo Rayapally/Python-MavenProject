@@ -19,7 +19,7 @@
         <version>1.6.0</version>
         <configuration>
           <executable>python</executable>
-          <workingDirectory>${project.basedir}/Shopping_CartProject/src/main/python</workingDirectory>
+          <workingDirectory>${project.basedir}/Shopping_CartProject</workingDirectory>
           <arguments>
             <argument>-m</argument>
             <argument>pytest</argument>
